@@ -1,0 +1,32 @@
+{
+    "MIT": [
+        "imurmurhash",
+        "punycode",
+        "balanced-match",
+        "esbuild",
+        "natural-compare",
+        "json-parse-even-better-errors",
+        "json5",
+        "fast-levenshtein",
+        "ignore",
+        "vite",
+        "keyv",
+        "jsesc",
+        "rollup",
+        "ts-api-utils",
+        "find-root",
+        "ms"
+    ],
+    "BSD-2-Clause": [
+        "esrecurse",
+        "esutils",
+        "estraverse"
+    ],
+    "Apache-2.0": [
+        "typescript"
+    ],
+    "BSD-3-Clause": [
+        "hoist-non-react-statics",
+        "esquery"
+    ]
+}
