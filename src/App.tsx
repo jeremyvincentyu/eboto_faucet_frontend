@@ -65,10 +65,18 @@ function App() {
 
     </Grid>
 
-    <Grid item xs={12}>
+    <Grid item xs={6}>
       <Link href="https://neweboto.xyz:43192/dispenser/license.txt">
       <Typography variant="body2" component="h6">
         License Text
+      </Typography>
+      </Link>
+    </Grid>
+
+    <Grid item xs={6}>
+      <Link href="https://github.com/jeremyvincentyu/eboto_faucet_frontend">
+      <Typography variant="body2" component="h6">
+        Source Code
       </Typography>
       </Link>
     </Grid>
